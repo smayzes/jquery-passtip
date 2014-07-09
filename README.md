@@ -24,7 +24,7 @@ I decided to add an entropy option where this plugin can be combined with a seco
 3. Call the plugin:
 
 	```javascript
-	$("#element").passTip();
+	$('input[type=password]').passTip();
 	```
 
 #### [demo/](http://www.shawnmayzes.com/code/jquery/passtip)

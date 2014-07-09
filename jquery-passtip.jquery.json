@@ -1,0 +1,34 @@
+{
+  "name": "jquery-passtip",
+  "title": "jQuery PassTip",
+  "description": "Inline password criteria display.",
+  "keywords": [
+    "jquery",
+    "password",
+    "plugins"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Shawn Mayzes",
+    "url": "https://github.com/smayzes"
+  },
+  "maintainers": [
+    {
+      "name": "Shawn Mayzes",
+      "url": "https://github.com/smayzes"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": "https://github.com/smayzes/jquery-passtip/issues",
+  "homepage": "http://shawnmayzes.com",
+  "docs": "https://github.com/smayzes/jquery-passtip#readme",
+  "download": "https://github.com/smayzes/jquery-passtip/archive/master.zip",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}

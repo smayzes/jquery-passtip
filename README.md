@@ -4,7 +4,7 @@
 
 The inspiration for creating this plugin came from a blog I follow. [Paul Lewis](http://aerotwist.com/blog/) wrote on his blog about [Better password form fields](http://aerotwist.com/blog/better-password-form-fields/) and I really liked his design for an inline approach to password verification.
 
-I also decided to add an entropy option where this plugin can be combined with a second party plugin by [xero](https://github.com/xero/passwordEntropy.js).
+I also decided to add an entropy option where this plugin can be combined with a third party plugin by [xero](https://github.com/xero/passwordEntropy.js).
 
 ## Usage
 

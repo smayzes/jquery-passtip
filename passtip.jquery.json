@@ -1,5 +1,5 @@
 {
-  "name": "jquery-passtip",
+  "name": "passtip",
   "title": "jQuery PassTip",
   "description": "Inline password criteria display.",
   "keywords": [
@@ -7,7 +7,7 @@
     "password",
     "plugins"
   ],
-  "version": "1.0.0",
+  "version": "0.1.0",
   "author": {
     "name": "Shawn Mayzes",
     "url": "https://github.com/smayzes"
